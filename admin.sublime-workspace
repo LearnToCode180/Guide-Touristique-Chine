@@ -1,0 +1,815 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mA",
+				"margin\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"an",
+				"animation-delay\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"ajo",
+				"ajouter"
+			],
+			[
+				"prix",
+				"prixHT"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"pri",
+				"prixHT"
+			],
+			[
+				"id",
+				"id_pers"
+			],
+			[
+				"req",
+				"req\trequire …"
+			],
+			[
+				"donn",
+				"donnees"
+			],
+			[
+				"ti",
+				"titres1"
+			],
+			[
+				"date",
+				"date_publication"
+			],
+			[
+				"re",
+				"recherche"
+			],
+			[
+				"post",
+				"postTitre"
+			],
+			[
+				"news",
+				"newsletter"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"inse",
+				"inserer"
+			],
+			[
+				"pre",
+				"prenom"
+			],
+			[
+				"vi",
+				"ville"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"v",
+				"v_msg"
+			],
+			[
+				"da",
+				"date_recru"
+			],
+			[
+				"v_",
+				"v_sal_new"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"se",
+				"service"
+			],
+			[
+				"p",
+				"poster\tAttr"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"im",
+				"background-image\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"tit",
+				"titres"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"conn",
+				"connexion"
+			],
+			[
+				"sup",
+				"supprimer"
+			],
+			[
+				"res",
+				"resume"
+			],
+			[
+				"date_p",
+				"date_pub"
+			],
+			[
+				"mot",
+				"motdepasse"
+			],
+			[
+				"conne",
+				"connexion"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"con",
+				"contenu"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"connec",
+				"connecter"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"E",
+				"Etablissements"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"d",
+				"flex-direction\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"bou",
+				"border-radius\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"si",
+				"font-size\tproperty"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"nou",
+				"nouveauNom"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"ex",
+				"extantionsUpload"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"avat",
+				"avatars"
+			],
+			[
+				"jp",
+				"jpg"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"ne",
+				"new_password"
+			],
+			[
+				"pas",
+				"password_hash"
+			],
+			[
+				"new_pa",
+				"new_password_conf"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"new_",
+				"new_password_conf"
+			],
+			[
+				"new",
+				"new_password"
+			],
+			[
+				"S",
+				"_SESSION"
+			],
+			[
+				"sessin",
+				"session_destroy"
+			],
+			[
+				"sesson_",
+				"session_start"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"fe",
+				"fetch"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"SE",
+				"SESSION"
+			],
+			[
+				"ps",
+				"pseudo"
+			],
+			[
+				"SESS",
+				"session_start"
+			],
+			[
+				"form",
+				"formco"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"dra",
+				"drapeau"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"passwo",
+				"password"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"password_",
+				"password_conf"
+			],
+			[
+				"comment",
+				"commentaires"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 256.0,
+		"history":
+		[
+			"install package -> fileicons",
+			"set packing",
+			"set package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/Html/skills.css",
+		"/C/Users/user/Desktop/Html/skills.html",
+		"/C/wamp64/www/tests/miniProjet2/monuments.css",
+		"/C/wamp64/www/tests/miniProjet2/miniProjet.css",
+		"/C/wamp64/www/tests/miniProjet2/miniProjet.php",
+		"/C/Users/user/Desktop/cours LST INFO/Cours-BD/procedure.sql",
+		"/C/wamp64/www/tests/miniProjet/miniProjet.css",
+		"/C/wamp64/www/tests/miniProjet/miniProjet.php",
+		"/C/Users/user/Desktop/Html/tpc.css",
+		"/C/wamp64/www/tests/miniProjet2/Etablissements.php",
+		"/C/wamp64/www/tests/miniProjet2/connexion.php",
+		"/C/wamp64/www/tests/miniProjet2/GrandeMuraille.php",
+		"/C/wamp64/www/tests/miniProjet/ajouter.php",
+		"/F/exo5switch.sh",
+		"/C/Users/user/Downloads/ex41serie4.txt",
+		"/F/ex41serie4.sh",
+		"/F/exo5.sh",
+		"/F/exo3.sh",
+		"/F/exo2v2.sh",
+		"/F/exo2.sh",
+		"/C/wamp64/www/tests/miniProjet/news.php",
+		"/C/wamp64/www/tests/miniProjet/modification.php",
+		"/C/wamp64/www/tests/miniProjet/modifier.php",
+		"/C/wamp64/www/tests/miniProjet/contact.php",
+		"/C/wamp64/www/tests/deconnexion.php",
+		"/C/wamp64/www/tests/miniProjet/recherche.php",
+		"/C/wamp64/www/tests/miniProjet/suppression.php",
+		"/C/wamp64/www/tests/miniProjet/internaute.php",
+		"/C/Users/user/Desktop/Html/Pepsi.html",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Scripts_web_programme_tri_AD/TP_WEB/ex9/Navbar4.htm",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Scripts_web_programme_tri_AD/TP_WEB/ex9/Navbar4.css",
+		"/C/wamp64/www/tests/devoir/question5.php",
+		"/C/wamp64/www/tests/devoir/insertion_proprietaire.php",
+		"/C/Users/user/Desktop/cours LST INFO/Aide/Comment améliorer vos compétences en programmation__files/screen.css",
+		"/C/wamp64/www/tests/miniProjet/plan.php",
+		"/C/wamp64/www/tests/miniProjet/admin.php",
+		"/C/wamp64/www/tests/devoir/TD/test.php",
+		"/C/wamp64/www/tests/devoir/TD/exer1.html",
+		"/C/wamp64/www/tests/devoir/TD/ex5_q1.html",
+		"/C/wamp64/www/tests/devoir/TD/ex7.php",
+		"/C/wamp64/www/tests/devoir/TD/ex5_q1.php",
+		"/C/wamp64/www/tests/devoir/TD/ex5_q2.php",
+		"/C/wamp64/www/tests/devoir/TD/ex8.2.php",
+		"/C/wamp64/www/tests/devoir/TD/ex1.2.php",
+		"/C/wamp64/www/tests/devoir/TD/exercice6.php",
+		"/C/wamp64/www/tests/devoir/TD/ex1.php",
+		"/C/wamp64/www/tests/devoir/question7.php",
+		"/C/wamp64/www/tests/devoir/question6.php",
+		"/C/wamp64/www/tests/devoir/exercice5_JS.html",
+		"/C/wamp64/www/tests/devoir/exercice3_JS.html",
+		"/C/wamp64/www/tests/miniProjet/connexion.php",
+		"/C/wamp64/www/tests/miniProjet/monuments.css",
+		"/C/wamp64/www/tests/miniProjet/description.php",
+		"/C/wamp64/www/tests/miniProjet/villes.php",
+		"/C/wamp64/www/tests/miniProjet/Remparts de Xi'an.php",
+		"/C/wamp64/www/tests/miniProjet/ReedFluteCave.php",
+		"/C/wamp64/www/tests/miniProjet/monuments.php",
+		"/C/wamp64/www/tests/miniProjet/Zhangjiajie.php",
+		"/C/wamp64/www/tests/miniProjet/informationsPersonnelles.php",
+		"/C/wamp64/www/tests/miniProjet/GrandeMuraille.php",
+		"/C/wamp64/www/tests/miniProjet/Mausolee.php",
+		"/C/wamp64/www/tests/miniProjet/centreMondial.php",
+		"/C/wamp64/www/tests/miniProjet/Etablissements.php",
+		"/C/wamp64/www/tests/devoir/exercice4.php",
+		"/C/wamp64/www/tests/devoir/exercice3.php",
+		"/C/wamp64/www/tests/devoir/exercice4_JS.html",
+		"/C/wamp64/www/tests/devoir/ex3_JS.JS",
+		"/C/Users/user/Desktop/Html/test final/contacts.js",
+		"/C/Users/user/Desktop/Html/test final/contacts.html",
+		"/C/wamp64/www/tests/devoir/devoir.css",
+		"/C/wamp64/www/tests/devoir/afficher_modele.php",
+		"/C/wamp64/www/tests/devoir/inserer_modele.php",
+		"/C/wamp64/www/tests/devoir/question3.php",
+		"/C/wamp64/www/tests/devoir/insertion_modele.php",
+		"/C/wamp64/www/tests/formulaire.php",
+		"/C/wamp64/www/tests/edition.php",
+		"/C/wamp64/www/tests/connexion.php",
+		"/C/wamp64/www/tests/confirmations.php",
+		"/C/wamp64/www/tests/profil.php",
+		"/C/wamp64/www/tests/miniProjet/images/poster.jpg!d",
+		"/C/wamp64/www/tests/miniProjet/Zhangjiajie.html",
+		"/C/wamp64/www/tests/miniProjet/villes.html",
+		"/C/wamp64/www/tests/miniProjet/monuments.html",
+		"/C/wamp64/www/tests/minichat_post.php",
+		"/C/wamp64/www/tests/minichat.php",
+		"/C/wamp64/www/tests/indexaw.php",
+		"/C/wamp64/www/tests/index.php",
+		"/C/wamp64/www/tests/expressions.php",
+		"/C/wamp64/www/tests/ex1.php",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/monuments.css",
+		"/C/wamp64/www/tests/ajout_comm.php",
+		"/C/wamp64/www/tests/inscription.php",
+		"/C/wamp64/www/tests/miniProjet/admin.html",
+		"/C/wamp64/www/tests/miniProjet/Etablissements.html",
+		"/C/wamp64/www/tests/miniProjet/centreMondial.html",
+		"/C/wamp64/www/tests/miniProjet/Mausolee.html",
+		"/C/wamp64/www/tests/miniProjet/GrandeMuraille.html",
+		"/C/wamp64/www/tests/miniProjet/connexion.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/connexion.html",
+		"/C/wamp64/www/tests/add.php",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/formadd.html",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/._Communiquer avec une base de données via PHP.docx",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/connect.php",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/add.php",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/Exo-TD-TP/js/objet2.html",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/Exo-TD-TP/exam techweb 16-1.docx",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/Communiquer avec une base de données via PHP.docx",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/._add.php",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/._formadd.html",
+		"/C/Users/user/Desktop/cours LST INFO/Web/Archive/._connect.php",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/informationsPersonnelles.html",
+		"/C/Users/user/Documents/mini_projet/connexion.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/admin.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/miniProjet.css",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/miniProjet.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/ReedFluteCave.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/Remparts de Xi'an.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/Zhangjiajie.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/villes.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/Mausolee.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/GrandeMuraille.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/centreMondial.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/Etablissements.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/mini_projet/monuments.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/TP/sceance1.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/TP/CSS/cv.css",
+		"/C/Users/user/Desktop/Html/tp.html",
+		"/C/Users/user/Desktop/Html/programmation web S5/TP/Html/CSS/cv.css"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 124.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
